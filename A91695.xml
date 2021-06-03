@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Resolution of the Protestant gentry and commonalty of Cheshire concerning their petition lately presented to the Kings Majesty at Yorke. Wherein is declared their loyalty to his sacred Majestie, and due obedience to the honourable Houses of Parliament. With all their protestation to spend their lives and estates to defend his sacred Majesty from all dangers, either forteigne [sic] or domesticke. And also to defend the Parliament against all opposers, declaring their great confidence, that their councels and determinations tend to the advancement of his Majesties honour and the preservation of all his loving subjects</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91695</idno><idno type="EEBO-CITATION">99872682</idno>
+  <idno type="VID">156737</idno>
+  <idno type="EEBO-PROQUEST">2248515554</idno>
+  
+            <idno type="STC">Wing R1154</idno>
+            <idno type="STC">Thomason E149_30</idno>
+            <idno type="STC">ESTC R4438</idno>
+            <idno type="PROQUEST">99872682</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872682e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91695)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156737)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E149[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Resolution of the Protestant gentry and commonalty of Cheshire concerning their petition lately presented to the Kings Majesty at Yorke. Wherein is declared their loyalty to his sacred Majestie, and due obedience to the honourable Houses of Parliament. With all their protestation to spend their lives and estates to defend his sacred Majesty from all dangers, either forteigne [sic] or domesticke. And also to defend the Parliament against all opposers, declaring their great confidence, that their councels and determinations tend to the advancement of his Majesties honour and the preservation of all his loving subjects</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642. June 6.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Cheshire (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156737:1"/>
+            <p>THE RESOLVTION Of the Protestant Gentry and Commonalty of CHESHIRE Concerning their Petition lately presented to the Kings Majesty at <hi>Yorke.</hi>
+            </p>
+            <p>Wherein is declared their Loyalty to his Sacred Majestie, and due obedience to the Honourable Houses of Parliament.</p>
+            <p>With all their Protestation to spend their Lives and Estates to defend His Sacred Majesty from all dan<g ref="char:EOLhyphen"/>gers, either Forreigne or Domesticke.</p>
+            <p>And also to defend the Parliament against all opposers, declaring their great confidence, that their Councels and Determinations tend to the advancement of his Majesties Honour and the preservation of all his Loving Subjects</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Horton,</hi> 1642. <hi>June</hi> 6.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156737:2"/>
+            <pb facs="tcp:156737:2"/>
+            <head>The Resolution of the Protes<g ref="char:EOLhyphen"/>testant Gentry and Commonal<g ref="char:EOLhyphen"/>ty of <hi>Cheshire.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Uch have beene the feares and distractions of the County of Chester, by reason of the innumerable and indeed unsufferable assemblies and tumultuous meetings of the Papists, and others that are New<g ref="char:EOLhyphen"/>tralls, or as we may terme them, luke<g ref="char:EOLhyphen"/>warme both in Loyalty and Religion, that the Gentry and Commonalty of the Protestant Party were constrayned to draw themselves to a head, and set downe their Resolution, protesting to to performe these two particulars.</p>
+            <p>First they resolved to be Loyall to his Maiesty, according to their Petition
+<pb facs="tcp:156737:3"/>lately presented to his Maiesty at <hi>Yorke,</hi> by the Gentry and Commonalty of of the said County.</p>
+            <p>Secondly, they resolved to be obedi<g ref="char:EOLhyphen"/>ent to the Parliamen.</p>
+            <p>Withall desiring that all true heart<g ref="char:EOLhyphen"/>ed Protestants, that desire to expresse themselves Loyall Subjects to his Ma<g ref="char:EOLhyphen"/>iesty, and obedient Servants to the Par<g ref="char:EOLhyphen"/>liament, would with unite consent take the same Resolution.</p>
+            <p>The maner and Forme followeth in as true and as exact a manner as could be gathered by one that was a specta<g ref="char:EOLhyphen"/>tor when the Oath was taken, and Re<g ref="char:EOLhyphen"/>solution declared to the high Sheriffe of the said County.</p>
+            <p>First they resolved and sollemnely Protestest to declare themselves true and loyall Subiects to his Sacred Ma<g ref="char:EOLhyphen"/>iesty, and to his heires forever.</p>
+            <pb facs="tcp:156737:3"/>
+            <p>Next to maintaine and to defend the Protestant profession in all points whatsoever, agreeable to the Church of <hi>England,</hi> against all Sects and Schismes, against all Papists, Donatists, Armini<g ref="char:EOLhyphen"/>ans, and all other Hipocriticall Doc<g ref="char:EOLhyphen"/>trines whatsoeves, allso to maintaine the iust Prerogative of his Maiesties Regall Authority, against all opposers whatsoever.</p>
+            <p>Secondly, they Constantly and with a ioynt consent resolved to maintaine and defend the high Court of Parlia<g ref="char:EOLhyphen"/>ment, and according to their bounden Dutie to acknowledge them (next to God, and his Maiesty) the cheife Au<g ref="char:EOLhyphen"/>thors of their present security, and the onely meanes of their happy continu<g ref="char:EOLhyphen"/>ance, and future preservation, decla<g ref="char:EOLhyphen"/>ring their Councels to be Religious, their Commands Lawfull, and their Actions Loyall, withall promising and protesting obedience to their Com<g ref="char:EOLhyphen"/>mands,
+<pb facs="tcp:156737:4"/>and to those appointed by by them to have Command, and to be Governours of the <hi>Militia.</hi>
+            </p>
+            <p>This is the Resolution of the Prots<g ref="char:EOLhyphen"/>tant Gentry and Commonalty of <hi>Cheshire</hi> and this ought to be the resolution of all the Protestants in the Kingdome, seeing that we have so many unknown Enemies, so many <hi>Absoloms.</hi> which day<g ref="char:EOLhyphen"/>ly rebell against his Maiesty, seeing we have so many disturbers, so many <hi>Arons</hi> lifting up the golden Calse of Idolatry so many deceivers sowing teares among the Corne, so many <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> blasphe<g ref="char:EOLhyphen"/>ming the Lord of Hosts plotting the destruction of Gods annointed we had need to have some <hi>Davids,</hi> to quell their swelling and ore daring Pride, w<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have need of some true hearted Prote<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tants, to defend the Protestant Religion, see<g ref="char:EOLhyphen"/>ing we have so many Papists, so many wolves in Sheeps Clothing so many destroyers, so many private conspira<g ref="char:EOLhyphen"/>tors,
+<pb facs="tcp:156737:4"/>that dayly conspire the downfall of the Gospell.</p>
+            <p>Wherefore let all those that would be esteemed either the zealous Servants of God, or the Loyall Subiects of their gratious Soveraigne and obedient Ser<g ref="char:EOLhyphen"/>vants to the high Court of Parliament, let them I say take up the resolution of the Gentry and Commonalty of <hi>Cheshire</hi> and with them cry, long live King <hi>Charles,</hi> and God preserve the Par<g ref="char:EOLhyphen"/>liament.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
